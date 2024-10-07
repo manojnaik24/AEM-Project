@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:Muilt_tabs
+Content-Package-Roots: /apps/bt-sample-project/components/helloworld,/ap
+ ps/bt-sample-project/components/multiproperty
+Content-Package-Type: application
+

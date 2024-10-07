@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:vlt="http://www.day.com/jcr/vault/1.0"
+    jcr:created="{Date}2024-10-07T22:05:37.618+05:30"
+    jcr:createdBy="admin"
+    jcr:description="\0"
+    jcr:lastModified="{Date}2024-10-07T22:05:37.618+05:30"
+    jcr:lastModifiedBy="admin"
+    jcr:primaryType="vlt:PackageDefinition"
+    buildCount="1"
+    builtWith="Adobe Experience Manager-2023.10.13804.20231005T183332Z"
+    group="my_packages"
+    lastUnwrapped="{Date}2024-10-07T22:05:37.618+05:30"
+    lastUnwrappedBy="admin"
+    lastWrapped="{Date}2024-10-07T22:05:37.618+05:30"
+    lastWrappedBy="admin"
+    name="Muilt_tabs"
+    version="\0">
+    <filter jcr:primaryType="nt:unstructured">
+        <f0
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            propertyRules="[]"
+            root="/apps/bt-sample-project/components/helloworld"
+            rules="[]"/>
+        <f1
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            propertyRules="[]"
+            root="/apps/bt-sample-project/components/multiproperty"
+            rules="[]"/>
+    </filter>
+</jcr:root>
