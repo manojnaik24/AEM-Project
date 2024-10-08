@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:proxy-and-custom-component
+Content-Package-Roots: /apps/bt-sample-project/components/picwithtext,/a
+ pps/bt-sample-project/components/picimage
+Content-Package-Type: application
+
