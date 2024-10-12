@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:creat-from-a-component
+Content-Package-Roots: /apps/bt-sample-project/components/imagetextwithr
+ l,/apps/bt-sample-project/components/heroimagewithtext
+Content-Package-Type: application
+
