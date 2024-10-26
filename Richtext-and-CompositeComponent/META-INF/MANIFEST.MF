@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:Richtext-and-CompositeComponent
+Content-Package-Roots: /apps/bt-sample-project/components/compositccompo
+ nent,/apps/bt-sample-project/components/richtextcomponent
+Content-Package-Type: application
+

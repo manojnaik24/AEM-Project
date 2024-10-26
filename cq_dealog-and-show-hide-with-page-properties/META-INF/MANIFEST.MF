@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:cq:dealog-and-show-hide-with-page-proper
+ ties
+Content-Package-Roots: /apps/bt-sample-project/components/manoj,/apps/bt
+ -sample-project/components/sliddowncomponent,/apps/bt-sample-project/co
+ mponents/picwithtext,/apps/bt-sample-project/components/picimage
+Content-Package-Type: application
+

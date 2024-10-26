@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/bt-sample-project/components/manoj"/>
+    <filter root="/apps/bt-sample-project/components/picimage"/>
+    <filter root="/apps/bt-sample-project/components/picwithtext"/>
+    <filter root="/apps/bt-sample-project/components/sliddowncomponent"/>
+</workspaceFilter>
